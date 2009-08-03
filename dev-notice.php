@@ -1,8 +1,8 @@
 <?php
 /*
  *   Plugin Name: Development Notice
- *   Description: Adds a simple bar at the bottom of the screen so you don't accidentally break the live site (as we've all done countless times).
- *   Version: 0.1
+ *   Description: Adds a simple bar at the bottom of the site indicating that you're working on a development version, so you don't accidentally break the live site.
+ *   Version: 0.2
  *   Author: Sam Bowler
  *   Author URI: http://sambowler.com
 
