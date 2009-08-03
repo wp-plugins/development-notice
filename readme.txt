@@ -1,7 +1,7 @@
 === Development Notice ===
 
 Tags: development, dev, help, tools, tool
-Requires at least: 2.8, probably backward compatible with most versions.
+Requires at least: 2.8
 Stable tag: 0.2
 Tested up to: 2.8
 Donate Link: http://www.sambowler.com/
